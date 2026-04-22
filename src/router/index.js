@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import HomeView from '../views/Homeview.vue'
 import StaticTableView from '../views/StaticView.vue'
 
 const routes = [
