@@ -13,6 +13,7 @@ onMounted(async () => {
 })
 </script>
 
+
 <template>
   <div>
     <h1>Vue + ASP.NET CI/CD Demo</h1>
